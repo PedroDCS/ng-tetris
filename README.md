@@ -1,15 +1,9 @@
-# ng-tetris
+# ng-tetris / Multiplayer
 
-Tetris game in Angular. [Play it now!](https://focused-mestorf-930f82.netlify.com/)
+Tetris game in Angular. [Play it now!](http://tetris-pvp.web.app/)
 
-![tetris picture](src/assets/share-image-large.png)
+![tetris picture](https://firebasestorage.googleapis.com/v0/b/projetos-p.appspot.com/o/Captura%20de%20Tela%20(1).png?alt=media&token=9534f9d7-2ea6-4c37-9343-cce0cb02b979)
 
-## Development server
+## Mais Informações em breve
 
-Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-
+[Repositorio Original](https://github.com/melcor76/ng-tetris)
